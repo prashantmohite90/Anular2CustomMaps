@@ -1,0 +1,11 @@
+﻿#se-google-map {
+    width: 700px;
+    height: 500px;
+    float: left
+}
+
+#cordinateDetail {
+    float: right;
+    width: 300px;
+    margin-right: 300px;
+}
